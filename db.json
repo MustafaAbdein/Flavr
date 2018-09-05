@@ -339,66 +339,6 @@
           ]
         }
       ]
-    },
-    {
-      "servings": 8,
-      "sourceName": "Jul's Kitchen",
-      "extendedIngredients": [
-        {
-          "id": 12061,
-          "originalString": "A handful of almonds and hazelnuts"
-        },
-        {
-          "id": 18064,
-          "originalString": "300 g of stale bread"
-        },
-        {
-          "id": 19335,
-          "originalString": "6 tablespoons of sugar"
-        },
-        {
-          "id": 19165,
-          "originalString": "2 tablespoons unsweetened cocoa powder"
-        },
-        {
-          "id": 1123,
-          "originalString": "1 whole egg"
-        },
-        {
-          "id": 1077,
-          "originalString": "500 ml of whole milk"
-        }
-      ],
-      "id": 556392,
-      "title": "Bread pudding cake",
-      "readyInMinutes": 50,
-      "image": "https://spoonacular.com/recipeImages/556392-556x370.jpg",
-      "analyzedInstructions": [
-        {
-          "steps": [
-            {
-              "number": 1,
-              "step": "Preheat oven to 180°C, fan assisted.Crumble the bread and place it in a large bowl.Bring the milk to a boil and pour over the bread. Leave it to soak the bread until cool. Mash with a fork."
-            },
-            {
-              "number": 2,
-              "step": "Add the sugar, the beaten egg, the sifted cocoa powder and the coarsely chopped almonds and hazelnuts."
-            },
-            {
-              "number": 3,
-              "step": "Mix throughly.Grease with butter a 18 cm round cake tin and dust with breadcrumbs and sugar. Spoon into the cake tin, smooth the surface with a spatula, sprinkle with sugar and add some butter slivers."
-            },
-            {
-              "number": 4,
-              "step": "Bake for about 40 minutes, until crisp on surface but still moist inside."
-            },
-            {
-              "number": 5,
-              "step": "Let cool and remove from the cake tin. Enjoy your breakfast and the new morning with a smile."
-            }
-          ]
-        }
-      ]
     }
   ]
 }
