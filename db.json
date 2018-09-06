@@ -125,7 +125,7 @@
           "originalString": "1 1/2 cups mixed nuts (such as cashews, almonds, walnuts, pistachios, macadamias, hazelnuts, etc.)"
         },
         {
-          "id": 1022047,
+          "id": 1,
           "originalString": "1/2 teaspoon fleur de sel, for garnish"
         }
       ],
@@ -153,7 +153,7 @@
       "sourceName": "Blogging Over Thyme",
       "extendedIngredients": [
         {
-          "id": 9050,
+          "id": 2,
           "originalString": "9 ounces (roughly 2 cups) fresh blueberries"
         },
         {
@@ -197,7 +197,7 @@
           "originalString": "1 whole egg, plus one teaspoon water"
         }
       ],
-      "id": 478525,
+      "id": 3,
       "title": "Blueberry Cinnamon Hand Pies",
       "readyInMinutes": 75,
       "image": "https://spoonacular.com/recipeImages/478525-556x370.jpg",
