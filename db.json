@@ -5,39 +5,39 @@
       "sourceName": "Desserts with Benefits",
       "extendedIngredients": [
         {
-          "id": 93784,
+         
           "originalString": "168g (1/2 cup) Brown Rice Syrup"
         },
         {
-          "id": 4047,
+         
           "originalString": "42g (3 Tbs) Coconut Oil, liquid"
         },
         {
-          "id": 9094,
+          
           "originalString": "1 7oz package Dried Figs (about 1+1/4 cups)"
         },
         {
-          "id": 19296,
+         
           "originalString": "126g (6 Tbs) Honey or Agave"
         },
         {
-          "id": 8120,
+         
           "originalString": "2 cups Old Fashioned Rolled Oats"
         },
         {
-          "id": 12120,
+         
           "originalString": "1 tsp Hazelnut Extract (or more vanilla)"
         },
         {
-          "id": 93628,
+         
           "originalString": "1/2 tsp Stevia Extract"
         },
         {
-          "id": 2050,
+          
           "originalString": "2 tsp Vanilla Extract"
         },
         {
-          "id": 1001223,
+         
           "originalString": "62g (2 scoops) Vanilla Whey Protein Powder"
         }
       ],
@@ -69,67 +69,67 @@
       "sourceName": "Baking A Moment",
       "extendedIngredients": [
         {
-          "id": 20081,
+         
           "originalString": "1 1/2 cups all-purpose flour"
         },
         {
-          "id": 19336,
+         
           "originalString": "1/3 cup powdered sugar"
         },
         {
-          "id": 1082047,
+         
           "originalString": "1/4 teaspoon kosher salt"
         },
         {
-          "id": 1145,
+         
           "originalString": "1/2 cup unsalted butter (cold)"
         },
         {
-          "id": 1125,
+         
           "originalString": "1 large egg yolk"
         },
         {
-          "id": 1053,
+         
           "originalString": "2 teaspoons heavy cream"
         },
         {
-          "id": 2050,
+         
           "originalString": "1/2 teaspoon vanilla extract"
         },
         {
-          "id": 1123,
+         
           "originalString": "3 large eggs"
         },
         {
-          "id": 19296,
+        
           "originalString": "2/3 cup honey"
         },
         {
-          "id": 19334,
+          
           "originalString": "1/2 cup brown sugar"
         },
         {
-          "id": 1145,
+         
           "originalString": "4 tablespoons unsalted butter, melted"
         },
         {
-          "id": 2050,
+         
           "originalString": "1 teaspoon vanilla extract"
         },
         {
-          "id": 1082047,
+         
           "originalString": "1 teaspoon kosher salt"
         },
         {
-          "id": 12135,
+         
           "originalString": "1 1/2 cups mixed nuts (such as cashews, almonds, walnuts, pistachios, macadamias, hazelnuts, etc.)"
         },
         {
-          "id": 1,
+
           "originalString": "1/2 teaspoon fleur de sel, for garnish"
         }
       ],
-      "id": 946114,
+      "id": 1,
       "title": "Salted Honey Nut Tart",
       "readyInMinutes": 122,
       "image": "https://spoonacular.com/recipeImages/946114-556x370.jpg",
@@ -153,51 +153,44 @@
       "sourceName": "Blogging Over Thyme",
       "extendedIngredients": [
         {
-          "id": 2,
+         
           "originalString": "9 ounces (roughly 2 cups) fresh blueberries"
         },
         {
-          "id": 10019908,
+         
           "originalString": "1 tablespoon demerara (or other raw) sugar"
         },
         {
-          "id": 20081,
+          
           "originalString": "1 1/2 cup all-purpose flour, plus more for dusting"
         },
         {
-          "id": 2010,
+         
           "originalString": "1/2 teaspoon ground cinnamon"
         },
         {
-          "id": 10014412,
           "originalString": "1/4 cup ice water"
         },
         {
-          "id": 1082047,
           "originalString": "1/4 teaspoon kosher salt"
         },
         {
-          "id": 9152,
           "originalString": "1 tablespoon fresh lemon juice"
         },
         {
-          "id": 9156,
           "originalString": "zest of 1 lemon"
         },
         {
-          "id": 19335,
           "originalString": "1 teaspoon sugar"
         },
         {
-          "id": 1145,
           "originalString": "1/2 cup (1 stick) chilled unsalted butter, cut into 1/4\" cubes"
         },
         {
-          "id": 1123,
           "originalString": "1 whole egg, plus one teaspoon water"
         }
       ],
-      "id": 3,
+      "id": 2,
       "title": "Blueberry Cinnamon Hand Pies",
       "readyInMinutes": 75,
       "image": "https://spoonacular.com/recipeImages/478525-556x370.jpg",
