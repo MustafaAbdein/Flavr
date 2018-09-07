@@ -46,8 +46,6 @@
       "readyInMinutes": 45,
       "image": "https://spoonacular.com/recipeImages/522996-556x370.jpg",
       "analyzedInstructions": [
-        {
-          "steps": [
             {
               "number": 1,
               "step": "Put the oats in a large bowl.In a powerful blender, add the figs, brown rice syrup, coconut oil and extracts, and blend until there are just a few chunks of figs."
@@ -61,8 +59,8 @@
               "step": "Let sit for an hour.Line a brownie pan with parchment paper and flatten the mixture out.   Refrigerate while you make the fondant.In a medium bowl, stir together all the ingredients.  Stir with a metal spoon until it looks like a frosting.Scoop over the figgy oatmeal bars and spread with the metal spoon.  It should not spread that well at first, so let it sit for a minute or two.  Grab another metal spoon and use the back of it to spread the frosting out even more, until it reaches the edges of the pan.  The layer should smoothen out now until it looks like the fondant in the pictures.  Refrigerate for 30 minutes to an hour, then slice into bars."
             }
           ]
-        }
-      ]
+        
+      
     },
     {
       "servings": 10,
@@ -134,8 +132,7 @@
       "readyInMinutes": 122,
       "image": "https://spoonacular.com/recipeImages/946114-556x370.jpg",
       "analyzedInstructions": [
-        {
-          "steps": [
+        
             {
               "number": 1,
               "step": "Click over to Kitchen"
@@ -144,8 +141,7 @@
               "number": 2,
               "step": "Aids blog, The Kitchenthusiast, for the full recipe & step-by-step tutorial."
             }
-          ]
-        }
+          
       ]
     },
     {
@@ -195,8 +191,7 @@
       "readyInMinutes": 75,
       "image": "https://spoonacular.com/recipeImages/478525-556x370.jpg",
       "analyzedInstructions": [
-        {
-          "steps": [
+        
             {
               "number": 1,
               "step": "Combine the flour, sugar, and salt in the bowl of a large food processor. Pulse several times to mix thoroughly."
@@ -241,8 +236,7 @@
               "number": 11,
               "step": "Serve warm or at room temperature."
             }
-          ]
-        }
+          
       ]
     }
   ]
