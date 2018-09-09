@@ -1,7 +1,6 @@
 {
   "recipes": [
     {
-      "title": "Healthy Fig Oatmeal Bars with Vanilla Fondant",
       "servings": 8,
       "sourceName": "Desserts with Benefits",
       "extendedIngredients": [
@@ -34,6 +33,7 @@
         }
       ],
       "id": 522996,
+      "title": "Healthy Fig Oatmeal Bars with Vanilla Fondant",
       "readyInMinutes": 45,
       "image": "https://spoonacular.com/recipeImages/522996-556x370.jpg",
       "instructions": "Put the oats in a large bowl.In a powerful blender, add the figs, brown rice syrup, coconut oil and extracts, and blend until there are just a few chunks of figs.  Pour over the oats and fold together.  Let sit for an hour.Line a brownie pan with parchment paper and flatten the mixture out.   Refrigerate while you make the fondant.In a medium bowl, stir together all the ingredients.  Stir with a metal spoon until it looks like a frosting.Scoop over the figgy oatmeal bars and spread with the metal spoon.  It should not spread that well at first, so let it sit for a minute or two.  Grab another metal spoon and use the back of it to spread the frosting out even more, until it reaches the edges of the pan.  The layer should smoothen out now until it looks like the fondant in the pictures.  Refrigerate for 30 minutes to an hour, then slice into bars."
@@ -110,7 +110,6 @@
         },
         {
           "originalString": "1/2 teaspoon ground cinnamon"
-          
         },
         {
           "originalString": "1/4 cup ice water"
@@ -138,192 +137,6 @@
       "readyInMinutes": 75,
       "image": "https://spoonacular.com/recipeImages/478525-556x370.jpg",
       "instructions": "Prepare Pie Dough:Combine the flour, sugar, and salt in the bowl of a large food processor. Pulse several times to mix thoroughly.Add the butter, and pulse several times until the butter is thoroughly incorporated and the texture resembles that of a coarse meal---you want the butter pieces to be in varying sizes, some small and others slightly larger. This will result in the flakiest crust.While pulsing, slowly add the water and continue to pulse until the dough just begins to clump together loosely.Remove the dough to a clean counter top, shape together with your hands into a square disc, and cover tightly in plastic wrap. Refrigerate the dough for 1 1/2 - 2 hours, or until firm (dough can be prepared up to three days in advance).Prepare Hand Pies:Preheat the oven to 375 degrees Fahrenheit. Line a large baking sheet with parchment paper.In a bowl, combine the blueberries, lemon zest, lemon juice, cinnamon, and salt. Mix thoroughly. In a separate small bowl, whisk together the egg and water. Set aside with a pastry brush.Remove the pie dough from the fridge, and allow it to rest at room temperature for 5 to 10 minutes. Once it has rested, place the dough on a lightly floured counter top. Using a rolling pin, roll the dough into a 12\" x 15\" rectangle (don't worry if the edges are not perfectly straight). Using a pastry cutter or knife, cut the dough into six rectangles.Brush the edges of the pie dough rectangles with water. Distribute the blueberries evenly into the center of each rectangle, and fold the dough over. Use a fork to seal the edges.Place the hand pies onto the parchment lined baking sheet. Brush the the tops of the pies evenly with egg wash, and sprinkle with demerara sugar. Using a sharp knife, cut two to three small slits into the top of the pies (to allow steam to escape during baking).Bake at 375 degrees for 35-40 minutes (rotating halfway), or until the golden brown. Do not worry if some of the filling spills during baking, this is to be expected.Transfer baking sheet to a wire rack to cool. Serve warm or at room temperature."
-    },
-  
-    {
-      
-      "servings": 16,
-      
-      "sourceName": "Taste of Home",
-     
-      "extendedIngredients": [
-        {
-          
-          "originalString": "1 teaspoon baking powder"
-        },
-        {
-          
-          "originalString": "1 cup butter, softened"
-        },
-        {
-          
-          "originalString": "1 cup confectioners' sugar"
-        },
-        {
-          
-          "originalString": "5 eggs"
-          
-        },
-        {
-          
-          "originalString": "3 cups all-purpose flour"
-        },
-        {
-          
-          "originalString": "2 to 3 teaspoons milk"
-        },
-        {
-          
-          "originalString": "1 teaspoon rum extract"
-        },
-        {
-          
-          "originalString": "1/2 cup shortening"
-        },
-        {
-          
-          "originalString": "1 cup (8 ounces) sour cream"
-        },
-        {
-          
-          "originalString": "3 cups sugar"
-        },
-        {
-         
-          "originalString": "1 teaspoon vanilla extract"
-        }
-      ],
-      "id": 437184,
-      "title": "Yuletide Pound Cake",
-      "readyInMinutes": 75,
-      "image": "https://spoonacular.com/recipeImages/437184-556x370.jpg",
-      "instructions": "Directions                                                                                In a large bowl, cream the butter, shortening and sugar until light and fluffy. Add eggs, one at a time, beating well after each addition. Beat in extracts. Combine flour and baking powder; gradually add to creamed mixture alternately with sour cream just until combined.                                                                                            Pour into a greased and floured 10-in. fluted tube pan. Bake at 350° for 60-70 minutes or until a toothpick inserted near the center comes out clean.                                                                                            Cool for 10 minutes before removing from pan to a wire rack to cool completely. Combine glaze ingredients; drizzle over cake.                                        Yield: 12-16 servings.                                                                                                                         Originally published as Yuletide Pound Cake in  Taste of HomeDecember/January 2007, p49                                                                                                                                                                                                        Nutritional Facts                                                                             1 serving (1 slice) equals 471 calories, 22 g fat (11 g saturated fat), 107 mg cholesterol, 169 mg sodium, 64 g carbohydrate, 1 g fiber, 5 g protein.                                                                                                                                                                     Print                                                                                    Add to Recipe Box                            Email a Friend",
-      "analyzedInstructions": [
-        {
-          "name": "",
-          "steps": [
-            {
-              "number": 1,
-              "step": "In a large bowl, cream the butter, shortening and sugar until light and fluffy.",
-              "ingredients": [
-                {
-                  "id": 4615,
-                  "name": "shortening",
-                  "image": "https://spoonacular.com/cdn/ingredients_100x100/shortening.jpg"
-                },
-                {
-                  "id": 1001,
-                  "name": "butter",
-                  "image": "https://spoonacular.com/cdn/ingredients_100x100/butter-sliced.jpg"
-                },
-                {
-                  "id": 19335,
-                  "name": "sugar",
-                  "image": "https://spoonacular.com/cdn/ingredients_100x100/sugar-cubes.jpg"
-                }
-              ],
-              "equipment": [
-                {
-                  "id": 404783,
-                  "name": "bowl",
-                  "image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
-                }
-              ]
-            },
-            {
-              "number": 2,
-              "step": "Add eggs, one at a time, beating well after each addition. Beat in extracts.",
-              "ingredients": [
-                {
-                  "id": 1123,
-                  "name": "egg",
-                  "image": "https://spoonacular.com/cdn/ingredients_100x100/egg.jpg"
-                }
-              ],
-              "equipment": []
-            },
-            {
-              "number": 3,
-              "step": "Combine flour and baking powder; gradually add to creamed mixture alternately with sour cream just until combined.",
-              "ingredients": [
-                {
-                  "id": 18371,
-                  "name": "baking powder",
-                  "image": "https://spoonacular.com/cdn/ingredients_100x100/white-powder.jpg"
-                },
-                {
-                  "id": 1056,
-                  "name": "sour cream",
-                  "image": "https://spoonacular.com/cdn/ingredients_100x100/sour-cream.jpg"
-                },
-                {
-                  "id": 20081,
-                  "name": "all purpose flour",
-                  "image": "https://spoonacular.com/cdn/ingredients_100x100/flour.png"
-                }
-              ],
-              "equipment": []
-            },
-            {
-              "number": 4,
-              "step": "Pour into a greased and floured 10-in. fluted tube pan.",
-              "ingredients": [],
-              "equipment": [
-                {
-                  "id": 404645,
-                  "name": "frying pan",
-                  "image": "https://spoonacular.com/cdn/equipment_100x100/pan.png"
-                }
-              ]
-            },
-            {
-              "number": 5,
-              "step": "Bake at 350° for 60-70 minutes or until a toothpick inserted near the center comes out clean.",
-              "ingredients": [],
-              "equipment": [
-                {
-                  "id": 404644,
-                  "name": "toothpicks",
-                  "image": "https://spoonacular.com/cdn/equipment_100x100/toothpicks.jpg"
-                }
-              ],
-              "length": {
-                "number": 70,
-                "unit": "minutes"
-              }
-            },
-            {
-              "number": 6,
-              "step": "Cool for 10 minutes before removing from pan to a wire rack to cool completely.",
-              "ingredients": [],
-              "equipment": [
-                {
-                  "id": 405900,
-                  "name": "wire rack",
-                  "image": "https://spoonacular.com/cdn/equipment_100x100/wire-rack.jpg"
-                },
-                {
-                  "id": 404645,
-                  "name": "frying pan",
-                  "image": "https://spoonacular.com/cdn/equipment_100x100/pan.png"
-                }
-              ],
-              "length": {
-                "number": 10,
-                "unit": "minutes"
-              }
-            },
-            {
-              "number": 7,
-              "step": "Combine glaze ingredients; drizzle over cake.",
-              "ingredients": [],
-              "equipment": []
-            }
-          ]
-        }
-      ]
     }
-  
-
   ]
 }
