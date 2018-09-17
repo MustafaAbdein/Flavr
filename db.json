@@ -38,61 +38,62 @@
       "image": "https://spoonacular.com/recipeImages/522996-556x370.jpg",
       "instructions": "Put the oats in a large bowl.In a powerful blender, add the figs, brown rice syrup, coconut oil and extracts, and blend until there are just a few chunks of figs. \n Pour over the oats and fold together.\n  Let sit for an hour.Line a brownie pan with parchment paper and flatten the mixture out.   Refrigerate while you make the fondant.In a medium bowl, stir together all the ingredients.  Stir with a metal spoon until it looks like a frosting.Scoop over the figgy oatmeal bars and spread with the metal spoon.  It should not spread that well at first, so let it sit for a minute or two.  Grab another metal spoon and use the back of it to spread the frosting out even more, until it reaches the edges of the pan.  The layer should smoothen out now until it looks like the fondant in the pictures.  Refrigerate for 30 minutes to an hour, then slice into bars."
     },
-    {
-      "title": "Salted Honey Nut Tart",
-      "servings": 10,
-      "sourceName": "Baking A Moment",
+ {
+      "servings": 16,
+      "sourceName": "Taste of Home",
       "extendedIngredients": [
         {
-          "originalString": "1 1/2 cups all-purpose flour"
+          
+          "originalString": "1 teaspoon baking powder"
         },
         {
-          "originalString": "1/3 cup powdered sugar"
+          
+          "originalString": "1 cup butter, softened"
         },
         {
-          "originalString": "1/4 teaspoon kosher salt"
+          
+          "originalString": "1 cup confectioners' sugar"
         },
         {
-          "originalString": "1/2 cup unsalted butter (cold)"
+         
+          "originalString": "5 eggs"
         },
         {
-          "originalString": "1 large egg yolk"
+          
+          "originalString": "3 cups all-purpose flour"
         },
         {
-          "originalString": "2 teaspoons heavy cream"
+          
+          "originalString": "2 to 3 teaspoons milk"
         },
         {
-          "originalString": "1/2 teaspoon vanilla extract"
+          
+          "originalString": "1 teaspoon rum extract"
         },
         {
-          "originalString": "3 large eggs"
+          
+          "originalString": "1/2 cup shortening"
         },
         {
-          "originalString": "2/3 cup honey"
+         
+          "originalString": "1 cup (8 ounces) sour cream"
+          
         },
         {
-          "originalString": "1/2 cup brown sugar"
+          
+          
+          "originalString": "3 cups sugar"
         },
         {
-          "originalString": "4 tablespoons unsalted butter, melted"
-        },
-        {
+         
           "originalString": "1 teaspoon vanilla extract"
-        },
-        {
-          "originalString": "1 teaspoon kosher salt"
-        },
-        {
-          "originalString": "1 1/2 cups mixed nuts (such as cashews, almonds, walnuts, pistachios, macadamias, hazelnuts, etc.)"
-        },
-        {
-          "originalString": "1/2 teaspoon fleur de sel, for garnish"
         }
       ],
       "id": 1,
-      "readyInMinutes": 122,
-      "image": "https://spoonacular.com/recipeImages/946114-556x370.jpg",
-      "instructions": "Click over to KitchenAids \n blog, The Kitchenthusiast, for the full recipe & step-by-step tutorial."
+      "title": "Yuletide Pound Cake",
+      "readyInMinutes": 75,
+      "image": "https://spoonacular.com/recipeImages/437184-556x370.jpg",
+      "instructions": " In a large bowl, cream the butter, shortening and sugar until light and fluffy. Add eggs, one at a time, beating well after each addition. Beat in extracts. Combine flour and baking powder; gradually add to creamed mixture alternately with sour cream just until combined.  \n Pour into a greased and floured 10-in. fluted tube pan. Bake at 350° for 60-70 minutes or until a toothpick inserted near the center comes out clean. \n Cool for 10 minutes before removing from pan to a wire rack to cool completely. Combine glaze ingredients; drizzle over cake."
     },
     {
       "title": "Blueberry Cinnamon Hand Pies",
